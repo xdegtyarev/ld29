@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: SilkyWonderland32px
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35be0f790243a0c46b505c114d7122ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bmFont: {fileID: 4900000, guid: 5aa466dd9c00c40edbf760eac3323bb1, type: 3}
+  material: {fileID: 2100000, guid: f56c18cf15c3347ba9b2fa0eeb7101b0, type: 2}
+  texture: {fileID: 2800000, guid: 74449efc089434c16a00edc86e4a933e, type: 3}
+  gradientTexture: {fileID: 0}
+  dupeCaps: 0
+  flipTextureY: 0
+  proxyFont: 0
+  useTk2dCamera: 0
+  targetHeight: 640
+  targetOrthoSize: 1
+  sizeDef:
+    type: 1
+    orthoSize: 10
+    pixelsPerMeter: 100
+    width: 540
+    height: 960
+  gradientCount: 0
+  manageMaterial: 1
+  loadable: 0
+  charPadX: 0
+  data: {fileID: 11400000, guid: 4024ebc65dc62464ea33c38f495b1969, type: 2}
+  version: 1
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

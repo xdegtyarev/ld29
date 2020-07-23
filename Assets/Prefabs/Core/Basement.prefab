@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: Basement
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100002
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400002}
+  - 212: {fileID: 21200000}
+  m_Layer: 0
+  m_Name: church
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 400002}
+  m_Father: {fileID: 0}
+--- !u!4 &400002
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100002}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.66999996, y: 2.20000005, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 400000}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 055e0e75e2b1642989d47c5d21aeb7c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MoneyViewer: {fileID: 0}
+  depth: 5
+  horizontalSize: 10
+  entranceSize: 4
+  cellPrefab: {fileID: 100000, guid: dfeacaae1f38c4fd48bcd32d69d8488a, type: 2}
+  cells: []
+  roomPrefabs:
+  - {fileID: 100000, guid: 0af0a20c2a68c4b339f3ee683af1a857, type: 2}
+  - {fileID: 100000, guid: e588a8ee353ab40b38a8579af3c6cb94, type: 2}
+  - {fileID: 100000, guid: 422f336569c4e4dadbff1b7086dbc85d, type: 2}
+  - {fileID: 100000, guid: aa4225672cd2f43d3b7aadfe7b6f8bf4, type: 2}
+  - {fileID: 100000, guid: e7e8a0570760e4ca39fb97c082debaee, type: 2}
+  - {fileID: 100000, guid: 8e12feb4c73fc4077b042cd4eb5b4d69, type: 2}
+  - {fileID: 100000, guid: 2612834c420de41dcb95384b3ffbc0ec, type: 2}
+  - {fileID: 100000, guid: e3e1f0b3b189c40de885f290a0efaed6, type: 2}
+  - {fileID: 100000, guid: 2bede53654bdb4393a3f591b1b0ee7ed, type: 2}
+  - {fileID: 100000, guid: e2128452688ef476681265af35667482, type: 2}
+  - {fileID: 100000, guid: 7426b2189bcc74277bb8db985a30502f, type: 2}
+  - {fileID: 100000, guid: abad43418cd7447d291dbefbdb1fecbf, type: 2}
+  - {fileID: 100000, guid: 38dc5e37f6f534c7fad7ccd7c6ed7dc5, type: 2}
+  - {fileID: 100000, guid: b2709280d97284aa5b08aa9301d05983, type: 2}
+  rooms: []
+  storage: []
+  money: 150000
+  initialStorage: {fileID: 11400000, guid: 0af0a20c2a68c4b339f3ee683af1a857, type: 2}
+  currentlySelectedRoom: {fileID: 0}
+--- !u!212 &21200000
+SpriteRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100002}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_LightmapIndex: 255
+  m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000e000000000000000, type: 0}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 0
+  m_LightProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_SortingLayer: 0
+  m_SortingOrder: 5
+  m_SortingLayerID: 0
+  m_Sprite: {fileID: 21300000, guid: 154ee55f85f774139b26370956f8e378, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

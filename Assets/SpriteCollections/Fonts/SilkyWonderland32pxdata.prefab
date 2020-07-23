@@ -1,0 +1,1219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: SilkyWonderland32pxdata
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 023bfc31841d2f24ba7eb00462467382, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 2
+  lineHeight: .409999996
+  chars:
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: 0, z: 0}
+    p1: {x: 0, y: 0, z: 0}
+    uv0: {x: 0, y: 0, z: 0}
+    uv1: {x: 0, y: 0, z: 0}
+    flipped: 0
+    gradientUv:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    advance: 0
+    channel: 0
+  - p0: {x: 0, y: .409999996, z: 0}
+    p1: {x: 0, y: .409999996, z: 0}
+    uv0: {x: .308571428, y: .052117262, z: 0}
+    uv1: {x: .308571428, y: .052117262, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .119999997
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .0700000003, y: .0799999908, z: 0}
+    uv0: {x: .159999996, y: .322475582, z: 0}
+    uv1: {x: .200000003, y: .221498385, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .0799999982
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .280000001, z: 0}
+    uv0: {x: .720000029, y: .133550495, z: 0}
+    uv1: {x: .805714309, y: .097719878, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .229999989, y: .0799999908, z: 0}
+    uv0: {x: .445714295, y: .993485332, z: 0}
+    uv1: {x: .577142894, y: .892508149, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .239999995
+    channel: 0
+  - p0: {x: 0, y: .429999977, z: 0}
+    p1: {x: .149999991, y: .0399999842, z: 0}
+    uv0: {x: .0114285713, y: .993485332, z: 0}
+    uv1: {x: .0971428603, y: .866449475, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .310000002, y: .0799999908, z: 0}
+    uv0: {x: .257142872, y: .993485332, z: 0}
+    uv1: {x: .43428573, y: .892508149, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .319999993
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .229999989, y: .0799999908, z: 0}
+    uv0: {x: .588571429, y: .993485332, z: 0}
+    uv1: {x: .720000029, y: .892508149, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .239999995
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .0700000003, y: .280000001, z: 0}
+    uv0: {x: .0114285713, y: .052117262, z: 0}
+    uv1: {x: .0514285713, y: .0162866432, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .0799999982
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .109999999, y: .0799999908, z: 0}
+    uv0: {x: .400000006, y: .429967433, z: 0}
+    uv1: {x: .462857157, y: .328990221, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .119999997
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .109999999, y: .0799999908, z: 0}
+    uv0: {x: .474285722, y: .429967433, z: 0}
+    uv1: {x: .537142873, y: .328990221, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .119999997
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .239999995, z: 0}
+    uv0: {x: .331428558, y: .133550495, z: 0}
+    uv1: {x: .417142838, y: .0846905634, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .310000002, z: 0}
+    p1: {x: .229999989, y: .0800000057, z: 0}
+    uv0: {x: .491428584, y: .322475582, z: 0}
+    uv1: {x: .622857153, y: .247557014, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .239999995
+    channel: 0
+  - p0: {x: 0, y: .149999991, z: 0}
+    p1: {x: .109999999, y: -5.58793545e-09, z: 0}
+    uv0: {x: .525714278, y: .133550495, z: 0}
+    uv1: {x: .588571429, y: .0846905634, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .119999997
+    channel: 0
+  - p0: {x: 0, y: .229999989, z: 0}
+    p1: {x: .149999991, y: .159999996, z: 0}
+    uv0: {x: .0628571436, y: .052117262, z: 0}
+    uv1: {x: .148571432, y: .0293159597, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .149999991, z: 0}
+    p1: {x: .0700000003, y: .0799999908, z: 0}
+    uv0: {x: .257142872, y: .052117262, z: 0}
+    uv1: {x: .297142863, y: .0293159597, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .0799999982
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .394285709, y: .859934866, z: 0}
+    uv1: {x: .479999989, y: .758957684, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .491428584, y: .859934866, z: 0}
+    uv1: {x: .577142894, y: .758957684, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .109999999, y: .0799999908, z: 0}
+    uv0: {x: .548571408, y: .429967433, z: 0}
+    uv1: {x: .611428559, y: .328990221, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .119999997
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .588571429, y: .859934866, z: 0}
+    uv1: {x: .67428571, y: .758957684, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .685714304, y: .859934866, z: 0}
+    uv1: {x: .771428585, y: .758957684, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .189999998, y: .0799999908, z: 0}
+    uv0: {x: .154285714, y: .859934866, z: 0}
+    uv1: {x: .262857139, y: .758957684, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .199999988
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .78285712, y: .859934866, z: 0}
+    uv1: {x: .868571401, y: .758957684, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .879999995, y: .859934866, z: 0}
+    uv1: {x: .965714276, y: .758957684, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .0114285713, y: .752443016, z: 0}
+    uv1: {x: .0971428603, y: .651465833, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .108571425, y: .752443016, z: 0}
+    uv1: {x: .194285706, y: .651465833, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .205714285, y: .752443016, z: 0}
+    uv1: {x: .291428566, y: .651465833, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .310000002, z: 0}
+    p1: {x: .0700000003, y: .0800000057, z: 0}
+    uv0: {x: .280000001, y: .133550495, z: 0}
+    uv1: {x: .319999993, y: .0586319268, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .0799999982
+    channel: 0
+  - p0: {x: 0, y: .310000002, z: 0}
+    p1: {x: .109999999, y: .0400000066, z: 0}
+    uv0: {x: .417142868, y: .322475582, z: 0}
+    uv1: {x: .480000019, y: .234527692, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .119999997
+    channel: 0
+  - p0: {x: 0, y: .349999994, z: 0}
+    p1: {x: .149999991, y: .119999997, z: 0}
+    uv0: {x: .0114285713, y: .214983717, z: 0}
+    uv1: {x: .0971428603, y: .140065148, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .310000002, z: 0}
+    p1: {x: .149999991, y: .160000011, z: 0}
+    uv0: {x: .428571433, y: .133550495, z: 0}
+    uv1: {x: .514285743, y: .0846905634, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .349999994, z: 0}
+    p1: {x: .149999991, y: .119999997, z: 0}
+    uv0: {x: .108571425, y: .214983717, z: 0}
+    uv1: {x: .194285706, y: .140065148, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .302857131, y: .752443016, z: 0}
+    uv1: {x: .388571411, y: .651465833, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .189999998, y: .0799999908, z: 0}
+    uv0: {x: .274285704, y: .859934866, z: 0}
+    uv1: {x: .382857144, y: .758957684, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .199999988
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .400000006, y: .752443016, z: 0}
+    uv1: {x: .485714287, y: .651465833, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .497142851, y: .752443016, z: 0}
+    uv1: {x: .582857132, y: .651465833, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .594285727, y: .752443016, z: 0}
+    uv1: {x: .680000007, y: .651465833, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .691428542, y: .752443016, z: 0}
+    uv1: {x: .777142823, y: .651465833, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .109999999, y: .0799999908, z: 0}
+    uv0: {x: .622857153, y: .429967433, z: 0}
+    uv1: {x: .685714304, y: .328990221, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .119999997
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .109999999, y: .0799999908, z: 0}
+    uv0: {x: .697142839, y: .429967433, z: 0}
+    uv1: {x: .75999999, y: .328990221, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .119999997
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .788571417, y: .752443016, z: 0}
+    uv1: {x: .874285698, y: .651465833, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .885714293, y: .752443016, z: 0}
+    uv1: {x: .971428573, y: .651465833, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .0700000003, y: .0799999908, z: 0}
+    uv0: {x: .211428568, y: .322475582, z: 0}
+    uv1: {x: .251428574, y: .221498385, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .0799999982
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .0114285713, y: .644951165, z: 0}
+    uv1: {x: .0971428603, y: .543973982, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .108571425, y: .644951165, z: 0}
+    uv1: {x: .194285706, y: .543973982, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .109999999, y: .0799999908, z: 0}
+    uv0: {x: .771428585, y: .429967433, z: 0}
+    uv1: {x: .834285736, y: .328990221, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .119999997
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .229999989, y: .0799999908, z: 0}
+    uv0: {x: .731428564, y: .993485332, z: 0}
+    uv1: {x: .862857163, y: .892508149, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .239999995
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .205714285, y: .644951165, z: 0}
+    uv1: {x: .291428566, y: .543973982, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .302857131, y: .644951165, z: 0}
+    uv1: {x: .388571411, y: .543973982, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .400000006, y: .644951165, z: 0}
+    uv1: {x: .485714287, y: .543973982, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0399999917, z: 0}
+    uv0: {x: .159999996, y: .993485332, z: 0}
+    uv1: {x: .245714277, y: .879478812, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .497142851, y: .644951165, z: 0}
+    uv1: {x: .582857132, y: .543973982, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .594285727, y: .644951165, z: 0}
+    uv1: {x: .680000007, y: .543973982, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .691428542, y: .644951165, z: 0}
+    uv1: {x: .777142823, y: .543973982, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .788571417, y: .644951165, z: 0}
+    uv1: {x: .874285698, y: .543973982, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .885714293, y: .644951165, z: 0}
+    uv1: {x: .971428573, y: .543973982, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .229999989, y: .0799999908, z: 0}
+    uv0: {x: .0114285713, y: .859934866, z: 0}
+    uv1: {x: .142857149, y: .758957684, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .239999995
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .0114285713, y: .537459254, z: 0}
+    uv1: {x: .0971428603, y: .436482042, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .108571425, y: .537459254, z: 0}
+    uv1: {x: .194285706, y: .436482042, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .205714285, y: .537459254, z: 0}
+    uv1: {x: .291428566, y: .436482042, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .109999999, y: .0799999908, z: 0}
+    uv0: {x: .845714271, y: .429967433, z: 0}
+    uv1: {x: .908571422, y: .328990221, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .119999997
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .302857131, y: .537459254, z: 0}
+    uv1: {x: .388571411, y: .436482042, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .109999999, y: .0799999908, z: 0}
+    uv0: {x: .920000017, y: .429967433, z: 0}
+    uv1: {x: .982857168, y: .328990221, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .119999997
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .280000001, z: 0}
+    uv0: {x: .817142844, y: .133550495, z: 0}
+    uv1: {x: .902857125, y: .097719878, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .149999991, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .159999996, y: .052117262, z: 0}
+    uv1: {x: .245714277, y: .0293159597, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .109999999, y: .280000001, z: 0}
+    uv0: {x: .914285719, y: .133550495, z: 0}
+    uv1: {x: .97714287, y: .097719878, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .119999997
+    channel: 0
+  - p0: {x: 0, y: .310000002, z: 0}
+    p1: {x: .149999991, y: .0800000057, z: 0}
+    uv0: {x: .205714285, y: .214983717, z: 0}
+    uv1: {x: .291428566, y: .140065148, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .400000006, y: .537459254, z: 0}
+    uv1: {x: .485714287, y: .436482042, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .310000002, z: 0}
+    p1: {x: .149999991, y: .0800000057, z: 0}
+    uv0: {x: .302857131, y: .214983717, z: 0}
+    uv1: {x: .388571411, y: .140065148, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .497142851, y: .537459254, z: 0}
+    uv1: {x: .582857132, y: .436482042, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .310000002, z: 0}
+    p1: {x: .149999991, y: .0800000057, z: 0}
+    uv0: {x: .400000006, y: .214983717, z: 0}
+    uv1: {x: .485714287, y: .140065148, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .109999999, y: .0799999908, z: 0}
+    uv0: {x: .0114285713, y: .322475582, z: 0}
+    uv1: {x: .0742857158, y: .221498385, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .119999997
+    channel: 0
+  - p0: {x: 0, y: .310000002, z: 0}
+    p1: {x: .149999991, y: 9.31322575e-09, z: 0}
+    uv0: {x: .594285727, y: .537459254, z: 0}
+    uv1: {x: .680000007, y: .436482042, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .691428542, y: .537459254, z: 0}
+    uv1: {x: .777142823, y: .436482042, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .0700000003, y: .0799999908, z: 0}
+    uv0: {x: .262857139, y: .322475582, z: 0}
+    uv1: {x: .302857131, y: .221498385, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .0799999982
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .0700000003, y: -5.58793545e-09, z: 0}
+    uv0: {x: .108571425, y: .993485332, z: 0}
+    uv1: {x: .148571432, y: .866449475, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .0799999982
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .788571417, y: .537459254, z: 0}
+    uv1: {x: .874285698, y: .436482042, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .0700000003, y: .0799999908, z: 0}
+    uv0: {x: .314285725, y: .322475582, z: 0}
+    uv1: {x: .354285717, y: .221498385, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .0799999982
+    channel: 0
+  - p0: {x: 0, y: .310000002, z: 0}
+    p1: {x: .229999989, y: .0800000057, z: 0}
+    uv0: {x: .634285688, y: .322475582, z: 0}
+    uv1: {x: .765714288, y: .247557014, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .239999995
+    channel: 0
+  - p0: {x: 0, y: .310000002, z: 0}
+    p1: {x: .149999991, y: .0800000057, z: 0}
+    uv0: {x: .497142851, y: .214983717, z: 0}
+    uv1: {x: .582857132, y: .140065148, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .310000002, z: 0}
+    p1: {x: .149999991, y: .0800000057, z: 0}
+    uv0: {x: .594285727, y: .214983717, z: 0}
+    uv1: {x: .680000007, y: .140065148, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .310000002, z: 0}
+    p1: {x: .149999991, y: 9.31322575e-09, z: 0}
+    uv0: {x: .885714293, y: .537459254, z: 0}
+    uv1: {x: .971428573, y: .436482042, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .310000002, z: 0}
+    p1: {x: .149999991, y: 9.31322575e-09, z: 0}
+    uv0: {x: .0114285713, y: .429967433, z: 0}
+    uv1: {x: .0971428603, y: .328990221, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .310000002, z: 0}
+    p1: {x: .109999999, y: .0800000057, z: 0}
+    uv0: {x: .205714285, y: .133550495, z: 0}
+    uv1: {x: .268571436, y: .0586319268, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .119999997
+    channel: 0
+  - p0: {x: 0, y: .310000002, z: 0}
+    p1: {x: .149999991, y: .0800000057, z: 0}
+    uv0: {x: .691428542, y: .214983717, z: 0}
+    uv1: {x: .777142823, y: .140065148, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .109999999, y: .0799999908, z: 0}
+    uv0: {x: .0857142881, y: .322475582, z: 0}
+    uv1: {x: .148571432, y: .221498385, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .119999997
+    channel: 0
+  - p0: {x: 0, y: .310000002, z: 0}
+    p1: {x: .149999991, y: .0800000057, z: 0}
+    uv0: {x: .788571417, y: .214983717, z: 0}
+    uv1: {x: .874285698, y: .140065148, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .310000002, z: 0}
+    p1: {x: .149999991, y: .0800000057, z: 0}
+    uv0: {x: .885714293, y: .214983717, z: 0}
+    uv1: {x: .971428573, y: .140065148, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .310000002, z: 0}
+    p1: {x: .229999989, y: .0800000057, z: 0}
+    uv0: {x: .777142882, y: .322475582, z: 0}
+    uv1: {x: .908571482, y: .247557014, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .239999995
+    channel: 0
+  - p0: {x: 0, y: .310000002, z: 0}
+    p1: {x: .149999991, y: .0800000057, z: 0}
+    uv0: {x: .0114285713, y: .133550495, z: 0}
+    uv1: {x: .0971428603, y: .0586319268, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .310000002, z: 0}
+    p1: {x: .149999991, y: 9.31322575e-09, z: 0}
+    uv0: {x: .108571425, y: .429967433, z: 0}
+    uv1: {x: .194285706, y: .328990221, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .310000002, z: 0}
+    p1: {x: .149999991, y: .0800000057, z: 0}
+    uv0: {x: .108571425, y: .133550495, z: 0}
+    uv1: {x: .194285706, y: .0586319268, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .205714285, y: .429967433, z: 0}
+    uv1: {x: .291428566, y: .328990221, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .0700000003, y: .0799999908, z: 0}
+    uv0: {x: .365714282, y: .322475582, z: 0}
+    uv1: {x: .405714273, y: .221498385, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .0799999982
+    channel: 0
+  - p0: {x: 0, y: .389999986, z: 0}
+    p1: {x: .149999991, y: .0799999908, z: 0}
+    uv0: {x: .302857131, y: .429967433, z: 0}
+    uv1: {x: .388571411, y: .328990221, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .159999996
+    channel: 0
+  - p0: {x: 0, y: .269999981, z: 0}
+    p1: {x: .189999998, y: .159999982, z: 0}
+    uv0: {x: .600000024, y: .133550495, z: 0}
+    uv1: {x: .708571434, y: .097719878, z: 0}
+    flipped: 0
+    gradientUv: []
+    advance: .199999988
+    channel: 0
+  charDictKeys: 
+  charDictValues: []
+  fontPlatforms: []
+  fontPlatformGUIDs: []
+  hasPlatformData: 0
+  managedFont: 0
+  needMaterialInstance: 0
+  isPacked: 0
+  premultipliedAlpha: 0
+  spriteCollection: {fileID: 0}
+  useDictionary: 0
+  kerning: []
+  largestWidth: .319999993
+  material: {fileID: 2100000, guid: f56c18cf15c3347ba9b2fa0eeb7101b0, type: 2}
+  gradientTexture: {fileID: 0}
+  textureGradients: 0
+  gradientCount: 0
+  texelSize: {x: .00999999978, y: .00999999978}
+  invOrthoSize: 2
+  halfTargetHeight: 50
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1
